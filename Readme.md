@@ -6,11 +6,11 @@
   <hr/>
 </div>
 <div align="center">
- <ul dir="auto" style="none">
-  <li>I am currently working as <strong>Web Developer intern</strong></li>
-  <li>My Current Role is <strong>Frontend Developer</strong> </li>
-  <li>Feel free to connect with me -->  <em><a href="mailto:gdrivearka98@gmail.com"><strong>gdrivearka98@gmail.com</strong></a></em></li>
-</ul>
+ <div dir="auto" style="none">
+  <h3>I am currently working as <strong>Web Developer intern</strong></h3>
+  <h3>My Current Role is <strong>Frontend Developer</strong> </h3>
+  <h3>Feel free to connect with me -->  <em><a href="mailto:gdrivearka98@gmail.com"><strong>gdrivearka98@gmail.com</strong></a></em></h3>
+ </div>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="300"/>
