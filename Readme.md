@@ -6,7 +6,7 @@
   <hr/>
 </div>
 <div align="center">
- <ul dir="auto">
+ <ul dir="auto" style="none">
   <li>I am currently working as <strong>Web Developer intern</strong></li>
   <li>My Current Role is <strong>Frontend Developer</strong> </li>
   <li>Feel free to connect with me -->  <em><a href="mailto:gdrivearka98@gmail.com"><strong>gdrivearka98@gmail.com</strong></a></em></li>
